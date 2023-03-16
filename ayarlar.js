@@ -1,9 +1,9 @@
 module.exports = {
 
-    token: "",
+    token: "MTA4NTkzMTAwODY0NzUxMjEzNQ.GDH1lN.J2_HF4VLoj8qQyToGuZCJax1y3peSkcyTYOhNw",
     prefix: "!",
-    sahip: "",
-    durum: "",
+    sahip: "932173676621738035",
+    durum: "Online",
 
     api: {
         TCKN: "",
